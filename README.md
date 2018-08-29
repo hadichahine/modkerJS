@@ -1,1 +1,4 @@
-Dummy
+# modkerJS
+
+JS module linker for nodeJS
+
