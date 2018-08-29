@@ -1,0 +1,8 @@
+{
+  "name": "modkerjs",
+  "version": "0.5.0",
+  "description": "Module linker for node",
+  "main": "main.js",
+  "author": "Hadi Chahine",
+  "license": "ISC"
+}
